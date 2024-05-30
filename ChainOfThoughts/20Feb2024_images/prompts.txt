@@ -1,0 +1,36 @@
+Try in Shobhika Font (https://github.com/Sandhi-IITBombay/Shobhika/releases/tag/v1.05):-
+
+अ आ इ ई उ ऊ 
+ए ऐ ओ औ अं अः 
+क ख ग घ ङ 
+च छ ज झ ञ
+ट ठ ड ढ़ ण 
+त थ द ध न 
+प फ ब भ म 
+य र ल व श ष स ह क्ष त्र ज्ञ  
+
+ ा ि ी ु ू ृ ॄ ॢ ॣ े ै ो ौ ं । ॥ ॐ 
+० १ २ ३ ४ ५ ६ ७ ८ ९ 
+
+
+कचनवाणजत्र
+
+षददतान
+
+In this image, the lines from line number 1 to line number 9 read as follows:
+अ आ इ ई उ ऊ 
+ए ऐ ओ औ अं अः 
+क ख ग घ ङ 
+च छ ज झ ञ
+ट ठ ड ढ़ ण 
+त थ द ध न 
+प फ ब भ म 
+य र ल व श ष स ह क्ष त्र ज्ञ  
+ा ि ी ु ू ृ ॄ ॢ ॣ े ै ो ौ ं । ॥ ॐ 
+० १ २ ३ ४ ५ ६ ७ ८ ९
+
+second last line when OCRed from an OCR system is कचजवाणजत्र, but actual text should be कचनवाणजत्र, न is misread by OCR as ज 
+can you read the last line based on above knowledge?
+
+last line when OCRed from an OCR system is षददताम, can you correct षददताम as per image of last line
+
